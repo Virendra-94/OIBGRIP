@@ -6,21 +6,19 @@
     font-family: 'Poppins', sans-serif;
 }
 
-/*.homepage {
+.homepage {
 
     background-color: blueviolet;
-    width: 100%;
-    height: auto;
+    
 
 }
 
-@media (max-width: 1281px) {
+/*@media (max-width: 1281px) {
     .homepage {
-        width: 100%;
-        height: auto;
+        
     }
-}*/
-
+}
+*/
 .navbar {
     margin-left: 3rem;
     margin-right: 0rem;
