@@ -17,7 +17,7 @@
 @media (max-width: 1281px) {
     .homepage {
         width: 100%;
-        height: 100vh;
+        height: auto;
     }
 }
 
@@ -256,6 +256,7 @@
 .about-txt{
     justify-content:flex-start;
     margin-left: 3rem;
+    margin-right: 2rem;
     font-size: 1rem;
 }
 
