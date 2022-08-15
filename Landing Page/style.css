@@ -348,3 +348,11 @@ form{
     color: #8a2be2;
     font-size: 2rem;
 }
+.author{
+    text-decoration: none;
+    color:rgb(170, 161, 161);
+}
+.author:hover{
+    text-decoration: none;
+    color:white;
+}
